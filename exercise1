@@ -1,0 +1,13 @@
+#dbms_sqlbolt
+
+#find the title of each film
+SELECT title FROM movies;
+
+#find the director of each film
+SELECT director FROM movies;
+
+#find the title, director of each films;
+SELECT title, director FROM movies;
+
+
+
